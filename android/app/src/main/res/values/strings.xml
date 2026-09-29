@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MjRamirezProject</string>
+    <string name="title_activity_main">MjRamirezProject</string>
+    <string name="package_name">com.mjramirezproject.app</string>
+    <string name="custom_url_scheme">com.mjramirezproject.app</string>
+</resources>
